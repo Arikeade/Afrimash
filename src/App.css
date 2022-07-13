@@ -1,0 +1,25 @@
+
+
+.image{
+  width: 250px;
+  height: 250px;
+}
+.caurosel{
+  width: 80%;
+  height: auto;
+  background-color:#efbfef !important;
+  margin: 30px;
+  border-radius: 10px;
+}
+
+.image1{
+  width: 100px;
+  height: 100px;
+}
+
+.image2{
+  width: 200px;
+  height: 200px;
+  
+}
+
